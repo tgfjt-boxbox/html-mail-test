@@ -1,0 +1,19 @@
+{
+  "name": "html-mail-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/serve"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "email-templates": "^2.0.1",
+    "express": "^4.13.3",
+    "handlebars": "^4.0.4",
+    "helmet": "^0.14.0",
+    "mkdirp": "^0.5.1",
+    "node-sass": "^3.4.1"
+  }
+}
